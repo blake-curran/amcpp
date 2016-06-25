@@ -1,0 +1,2 @@
+# amcpp
+A C++ laboratory
